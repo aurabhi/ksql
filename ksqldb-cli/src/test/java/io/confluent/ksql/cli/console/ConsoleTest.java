@@ -106,7 +106,6 @@ import org.apache.kafka.connect.runtime.rest.entities.ConnectorStateInfo;
 import org.apache.kafka.connect.runtime.rest.entities.ConnectorStateInfo.ConnectorState;
 import org.apache.kafka.connect.runtime.rest.entities.ConnectorStateInfo.TaskState;
 import org.apache.kafka.connect.runtime.rest.entities.ConnectorType;
-import org.apache.kafka.streams.processor.TaskMetadata;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
