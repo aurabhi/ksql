@@ -458,6 +458,10 @@ public class ConsoleTest {
           "      \"errorMessage\" : \"error\",\n" +
           "      \"type\" : \"SYSTEM\"\n" +
           "    } ],\n" +
+          "    \"tasksMetadata\" : [ {\n" +
+          "      \"taskId\" : \"test\",\n" +
+          "      \"topicPartitions\" : [ ]\n" +
+          "    } ],\n" +
           "    \"state\" : \"ERROR\"\n" +
           "  },\n" +
           "  \"warnings\" : [ ]\n" +
