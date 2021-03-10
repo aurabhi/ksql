@@ -416,8 +416,8 @@ public class ConsoleTest {
                 new StreamsTaskMetadata(
                     "test",
                     Collections.emptySet(),
-                    ImmutableMap.of(),
-                    ImmutableMap.of(),
+                    Collections.emptySet(),
+                    Collections.emptySet(),
                     Optional.empty()
                 )
             )
